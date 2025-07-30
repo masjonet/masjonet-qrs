@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>id.co.jonet</groupId>
-	<artifactId>mycqrs-jonet1</artifactId>
+	<artifactId>mycqrs-jonet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mycqrs-jonet</name>
 	<description>Demo project for Spring Boot</description>
